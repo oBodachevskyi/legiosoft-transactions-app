@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/legiosoft-transactions-app/static/css/main.2c8b6263.css",
-    "main.js": "/legiosoft-transactions-app/static/js/main.3fda5029.js",
+    "main.js": "/legiosoft-transactions-app/static/js/main.673ec538.js",
     "index.html": "/legiosoft-transactions-app/index.html",
     "static/media/RightArrow.svg": "/legiosoft-transactions-app/static/media/RightArrow.65ba4ca2cd8b560f19ff01471a8c4e1d.svg",
     "static/media/LeftArrow.svg": "/legiosoft-transactions-app/static/media/LeftArrow.80861a58d91db3fca2c44d2da5c7515d.svg",
     "static/media/Dots.svg": "/legiosoft-transactions-app/static/media/Dots.65c0a3df8f012387a75fb91ee2f57c65.svg",
     "main.2c8b6263.css.map": "/legiosoft-transactions-app/static/css/main.2c8b6263.css.map",
-    "main.3fda5029.js.map": "/legiosoft-transactions-app/static/js/main.3fda5029.js.map"
+    "main.673ec538.js.map": "/legiosoft-transactions-app/static/js/main.673ec538.js.map"
   },
   "entrypoints": [
     "static/css/main.2c8b6263.css",
-    "static/js/main.3fda5029.js"
+    "static/js/main.673ec538.js"
   ]
 }
