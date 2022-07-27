@@ -1,0 +1,30 @@
+{
+    "name": "Macdolads",
+    "image": "https://logojinni.com/image/logos/mcdonalds-15.svg",
+    "products": [
+        {
+            "name": "cheesburger",
+            "category": "burger",
+            "price": 50,
+            "image": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-Cheeseburger-1:1-3-product-tile-desktop?wid=829&hei=515&dpr=off"
+        },
+        {
+            "name": "dablcheesburger",
+            "category": "burger",
+            "price": 75,
+            "image": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Double-Cheeseburger.jpg"
+        },
+        {
+            "name": "big-mak",
+            "category": "burger",
+            "price": 85,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA7IVEanBlULxwV7TQhyCzKvemq70kedA1uPpr-2JyIuQcJMm7QqJsAzOOcwPU41LQnoY&usqp=CAU"
+        },
+        {
+            "name": "royal dablcheesburger",
+            "category": "burger",
+            "price": 95,
+            "image": "https://www.mcdonalds.com/is/image/content/dam/ua/mediaassets/to_eat/best_burgers/thumb.DBL_ROYAL_CHEESEBURGER_300%D1%85300.png?$Publication_Three_Column_Desktop$"
+        }
+    ]
+}

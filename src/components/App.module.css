@@ -1,0 +1,25 @@
+.hero {
+  
+    display: flex;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+ .tranactions__box {    
+    width: 100%;    
+} 
+
+.controlPanel__box {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    margin-bottom: 55px;
+}
+
+.filterPanel__box {
+    display: flex;
+}
+
+.filePanel__box {
+    display: flex;
+}

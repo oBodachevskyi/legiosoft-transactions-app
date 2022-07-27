@@ -1,0 +1,15 @@
+.table {
+    width: 100%;
+    border: 2px solid #000; 
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.table__header {
+    background-color: rgb(205, 205, 205);  
+}
+
+.table__th {
+    border: 2px solid #000;
+    height: 36px;
+} 

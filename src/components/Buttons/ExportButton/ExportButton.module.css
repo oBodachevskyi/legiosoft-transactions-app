@@ -1,0 +1,10 @@
+.export__button {  
+    width: 140px;
+    height: 30px;
+    text-align: center;  
+    color: black;
+    background-color: white;
+    display: inline-block;
+    border: 2px solid black;
+    box-shadow: 4px 2px 4px 1px rgba(0,0,0,0.84);
+}
