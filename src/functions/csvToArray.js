@@ -1,7 +1,5 @@
 const csvFileToArray = string => {
-
-    const csvHeader = string.slice(0, string.indexOf("\n")-1).split(",");
-        console.log(csvHeader)
+    const csvHeader = string.slice(0, string.indexOf("\n")-1).split(",");  
     const csvRows = string.slice(string.indexOf("\n") + 1).split("\n");
     
 

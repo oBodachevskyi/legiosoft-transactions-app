@@ -28,11 +28,8 @@ export const fetchUpdateStatusTransaction = createAsyncThunk(
 export const fetchUpdateTransactionsList = createAsyncThunk('transactions/fetchUpdateTransactionsList', 
             async(array, thunkAPI) => {
                 for (const item of array) {
-                    await  await axios.post(`transactions/`, item)
-                    
-                }
-              
-                
+                    await  await axios.post(`transactions/`, item)                    
+                }               
                 thunkAPI.dispatch(fetchTansactionsList())   
             })
 

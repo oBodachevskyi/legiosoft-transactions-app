@@ -16,6 +16,9 @@ const error = createReducer(null, {
     
     [fetchDelTransactions.rejected]: (_, action) => action.payload,
     [fetchDelTransactions.pending]: () => null, 
+    
+    [fetchUpdateStatusTransaction.rejected]: (_, action) => action.payload,
+    [fetchDelTransactions.pending]: () => null, 
 })  
 
 const isLoading = createReducer(false, {
@@ -59,6 +62,7 @@ export default combineReducers({
     currentPage,
     openDialog,
     openModal,
-    isLoading
+    isLoading,
+    error
 
 })
